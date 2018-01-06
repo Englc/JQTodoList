@@ -1,2 +1,2 @@
 # JQTodoList
-A small webproject to get comfortable with JQuery and to store some notes about it
+A small webproject to get comfortable with JQuery, some CSS animation, using the icon library https://fontawesome.com/icons/trash-alt?style=solid, use a gradient as background (https://uigradients.com/) and store some notes about it
